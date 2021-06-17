@@ -6,8 +6,8 @@
       - [Part II: Data Transformation](#part-ii-data-transformation)
       - [Part III: Data Analysis](#part-iii-data-analysis)
  
- ### Background
-  This project involves setting up a few AWS technologies to generate near real time finance data records for interactive querying. This will allow us to capture and analyze data that is being constantly generated in or near to real time. We will utilize the [yfinance](https://github.com/ranaroussi/yfinance) module that provides a suitable and effective way to download and view historical market data from [Yahoo! finance](https://finance.yahoo.com/).
+### Background
+This project involves setting up a few AWS technologies to generate near real time finance data records for interactive querying. This will allow us to capture and analyze data that is being constantly generated in or near to real time. We will utilize the [yfinance](https://github.com/ranaroussi/yfinance) module that provides a suitable and effective way to download and view historical market data from [Yahoo! finance](https://finance.yahoo.com/).
   We will be taking a look at the following stocks: 
  - Facebook (FB), Shopify (SHOP), Beyond Meat (BYND), Netflix (NFLX), Pinterest (PINS)
  - Square (SQ), The Trade Desk (TTD), Okta (OKTA), Snap (SNAP), Datadog (DDOG)
